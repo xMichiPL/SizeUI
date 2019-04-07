@@ -1,0 +1,14 @@
+name: SizeUI
+main: SizeUI\Main
+version: 1.0
+api: 3.0.0
+author: Lover_BOY636
+description: Plugin SizeUI for PocketMine-MP!
+commands:
+  sizeui:
+    description: Change your size.
+    permission: sizeui.command
+permissions:
+  sizeui.command:
+    default: op
+    description: Permission of SizeUI.
